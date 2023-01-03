@@ -3,6 +3,7 @@ import Cookie from 'js-cookie';
 //  创建axios实例
 const request = axios.create({
     baseURL: "http://huruqing.cn:3003",
+    // 为了触发腾讯云webify更新而写的注释
     // timeout: 10000
 });
 
