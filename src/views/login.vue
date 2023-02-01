@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>This is an login page</h1>
-    <h1>git stash尝试</h1>
+    <h1>git stash尝试1</h1>
     <input type="text" v-model="phone" />
     <button @click="getSms()">获取验证码</button>
 
