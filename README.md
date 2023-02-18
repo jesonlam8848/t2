@@ -1,19 +1,4 @@
-# t2
-rebase尝试1
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<<<<<<< HEAD
+=======
+# rebase1.1
+>>>>>>> a7384c9583e596f19b4076be422015b63c72ce2b
